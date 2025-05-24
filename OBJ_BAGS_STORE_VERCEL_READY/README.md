@@ -1,0 +1,1 @@
+# OBJ BAGS STORE - Vercel Ready Build
